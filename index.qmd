@@ -1,0 +1,25 @@
+---
+title: "International Workshop on Topological Data Analysis"
+title-block-banner-color: white
+title-block-banner: hills.jpg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: top;
+        height: 350px;
+      }
+      </style>
+---
+
+# Welcome
+
+The 1st conference in the Algebraic Topology: Methods, Computation, & Science (ATMCS) series will be held 19-22 Dec 2025 at the National Institute of Technology in Sikkim, India. 
+We look forward to seeing you here!
+
+# Invited Speakers
+
+# Organizers
+
+# Scientific Committee
+

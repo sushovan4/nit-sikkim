@@ -1,0 +1,18 @@
+# Call for Participation
+
+ATMCS is a conference series on algebraic topology, its role in computation and science, and its applications. This conference will bring together researchers representing different aspects of applied topology (broadly interpreted), and different disciplinary areas.
+
+ATMCS11 invites submissions for contributed talks and posters. The submission is made as an extended abstracts through OpenReview: Link to OpenReview
+
+Format: Each extended abstract must not exceed three (3) pages in length in any reasonable LaTex format. The title page, references, and appendices do not count towards the page limit. A shorter abstract for the extended abstract is required at the beginning of the extended abstract. Submissions should be anonymous for a double-blind review process. A sample tex file using the amsart format is provided for your convenience.
+
+The extended abstracts of the accepted talks and posters will be available on the program webpage, and all contributed talks and posters will be invited to submit to a formal proceedings published as a special issue of the Springer journal La Matematica.
+
+
+In the OpenReview submission, you will be asked to indicate if you want to present as an oral presentation, as a poster presentation, or if either would be acceptable.
+
+For posters, submission of material that is to be submitted to (or to appear in) a refereed conference (e.g., SoCG’2025) or journal is allowed and encouraged; please indicate clearly with the submission if the work has already been presented/accepted elsewhere. Submissions for oral presentations are expected to be new research, not yet submitted to another conference or journal.
+
+All authors and reviewers are expected to adhere to the code of conduct.
+
+## Important Dates
